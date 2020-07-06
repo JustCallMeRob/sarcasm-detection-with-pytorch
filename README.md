@@ -10,7 +10,10 @@ It explains the following topics:
   -explanation for how the datapipeline works when using Pytorch (especially in conjunction with torchtext)
   -describes in detail the types of models used (Logistic Regression, Feed forward network, Convolutional neural network)
   
+  
  If you like it, leave it a clap 👏.
  
+ 
 Special thanks to [Aakash N S](https://medium.com/@aakashns) and the rest of the Jovian.ml crew that made the course possible.
-The dataset used in this project was (News Headlines Dataset)[https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection] put together by (Rishabh Misra)[https://rishabhmisra.github.io/publications/]
+
+The dataset used in this project was [News Headlines Dataset](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection) put together by [Rishabh Misra](https://rishabhmisra.github.io/publications/)
