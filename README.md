@@ -7,11 +7,8 @@ I have wrote an accompanying  blog post on Medium for this project:
 It explains the following topics:
 
   -exploring and understanding the type of data used
-  
   -explanation for all the preprocessing of the dataset
-  
   -explanation for how the datapipeline works when using Pytorch (especially in conjunction with torchtext)
-  
   -describes in detail the types of models used (Logistic Regression, Feed forward network, Convolutional neural network)
   
   
