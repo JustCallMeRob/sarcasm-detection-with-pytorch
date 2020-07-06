@@ -1,7 +1,7 @@
 # Sarcasm detection in text using Pytroch
 This is my course assignment for a machine learning certificate from Jovian.ml. It focuses on training various neural network models for the purposes of detecting sarcasm in text.
 
-I have wrote an accompanying  blog post on Medium for this project:(Detecting sarcasm in text using Pytorch) [https://medium.com/@robisipos/detecting-sarcasm-in-text-using-pytorch-2e1b3c382dfa]
+I have wrote an accompanying  blog post on Medium for this project:[Detecting sarcasm in text using Pytorch] (https://medium.com/@robisipos/detecting-sarcasm-in-text-using-pytorch-2e1b3c382dfa)
 
 It explains the following topics:
   -exploring and understanding the type of data used
