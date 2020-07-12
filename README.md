@@ -11,7 +11,7 @@ It explains the following topics:
  - describes in detail the types of models used (Logistic Regression, Feed forward network, Convolutional neural network)
   
   
- If you like it, leave it a clap 👏.
+ If you like it, leave it a clap 👏.   
  
  
 Special thanks to [Aakash N S](https://medium.com/@aakashns) and the rest of the Jovian.ml crew that made the course possible.
